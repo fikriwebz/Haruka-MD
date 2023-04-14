@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6287769811262@s.whatsapp.net"],
+    "ownerName": "FikriDev",
+    "instagram" : "https://instagram.com/fikrifahrezi2022",
+    "gcwa" : "http://fikrifahrezi.rf.gd",
+    "botName": "FikriBot",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "Secret key",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
